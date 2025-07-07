@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACADE - Coleta Seletiva</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+ <section class="coleta-container">
+  <div class="mapa">
+    <img src="/Imagens/mapa.png" alt="Mapa com localização">
+  </div>
+
+  <div class="formulario-coleta">
+    <label for="lixo">Lixo:</label>
+    <input type="text" id="lixo" name="lixo" placeholder="Tipo de lixo">
+
+    <label for="horario">Horário de agendamento:</label>
+    <input type="text" id="horario" name="horario" placeholder="Ex: 14:00">
+
+    <a href="#" class="botao-link">Agendar uma coleta</a>
+
+    <input type="text" id="infoAdicional" placeholder="Informações adicionais">
+
+    <div class="coleta-especial">
+      <label>
+        <input type="checkbox" id="especial" name="especial">
+        <span>Coleta especial</span>
+      </label>
+    </div>
+  </div>
+</section>
+
+<section class="avaliacao-coleta">
+  <label class="titulo-avaliacao">Avaliar coleta:</label>
+  <div class="estrelas">
+    <input type="radio" id="estrela5" name="estrela" value="5"><label for="estrela5">&#9733;</label>
+    <input type="radio" id="estrela4" name="estrela" value="4"><label for="estrela4">&#9733;</label>
+    <input type="radio" id="estrela3" name="estrela" value="3"><label for="estrela3">&#9733;</label>
+    <input type="radio" id="estrela2" name="estrela" value="2"><label for="estrela2">&#9733;</label>
+    <input type="radio" id="estrela1" name="estrela" value="1"><label for="estrela1">&#9733;</label>
+  </div>
+
+  <textarea placeholder="Deixe seu comentário..." class="comentario"></textarea>
+</section>
+
+<section class="mapa-enderecos">
+  <img src="/Imagens/bairros-enderecos.png" alt="Endereços por região">
+</section>
+
+</body>
+</html>
