@@ -1,2 +1,3 @@
-Fizemos um protótipo visual do site com aimações usando o figma;
-Acabamos parte visual (html/css) do projeto e começamos a parte funcional (utilizando blazor);
+[x] Protótipo visual do site com aimações usando o figma;
+[x] html/css do projeto
+[ ] Parte funcional (utilizando blazor);
