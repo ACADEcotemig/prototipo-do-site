@@ -1,3 +1,3 @@
-[x] Protótipo visual do site com aimações usando o figma;
-[x] html/css do projeto
-[ ] Parte funcional (utilizando blazor);
+- [x] Protótipo visual do site com aimações usando o figma;
+- [x] html/css do projeto
+- [ ] Parte funcional (utilizando blazor);
