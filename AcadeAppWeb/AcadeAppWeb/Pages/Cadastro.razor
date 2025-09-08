@@ -1,0 +1,46 @@
+﻿@using AcadeAppWeb.Models;
+
+@page "/cadastro"
+        <section class="formulario-cadastro">
+        <label for="email">E-mail:</label>
+        <input @bind="UserEmail" type="text" id="email" placeholder="Digite seu e-mail">
+
+        <label for="usuario">Nome de usuário:</label>
+        <input @bind="UserName" type="text" id="usuario" placeholder="Digite seu nome de usuário">
+
+        <label for="senha">Senha:</label>
+        <input @bind="UserPassword" type="password" id="senha" placeholder="Digite sua senha">
+
+        <label for="repetir-senha">Repetir a senha:</label>
+        <input type="password" id="repetir-senha" placeholder="Repita sua senha">
+
+        <div class="notificacao-container">
+            <input type="checkbox" id="notificar">
+            <label for="notificar">Receber notificações de avisos e notícias?</label>
+        </div>
+
+
+
+    <a \\@onclick ="" class="botao-link">Cadastrar</a>
+    </section>
+
+
+<ul>
+    @foreach (var u in users)
+    {
+        <li>@u.Username (@u.Email)</li>
+    }
+</ul>
+
+
+
+@code {
+
+
+    private string UserEmail;
+    private string UserName;
+    private string UserPassword;
+    private List<Usuario> users = new();
+
+    
+}
