@@ -1,3 +1,4 @@
 - [x] Protótipo visual do site com aimações usando o figma;
 - [x] html/css do projeto
+- [x] Migrar de HTML/CSS para Blazor
 - [ ] Parte funcional (utilizando blazor);
