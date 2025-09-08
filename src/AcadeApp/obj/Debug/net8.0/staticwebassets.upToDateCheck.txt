@@ -1,0 +1,13 @@
+wwwroot\css\style.css
+wwwroot\Imagens\bairros-enderecos.png
+wwwroot\Imagens\cadastro.png
+wwwroot\Imagens\CADE.png
+wwwroot\Imagens\cara.png
+wwwroot\Imagens\google.png
+wwwroot\Imagens\icone-coleta.png
+wwwroot\Imagens\mapa.png
+wwwroot\Imagens\nreci.png
+wwwroot\Imagens\organ.png
+wwwroot\Imagens\peri.png
+wwwroot\Imagens\reci.png
+wwwroot\index.html

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\pages\\agendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\pages\\agendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\pages\\cadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\pages\\cadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|c:\\users\\admin\\source\\repos\\acadeapp\\acadeapp\\pages\\cadastro.razor||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10E3DF7-3076-4DE9-8975-C88BFDE64DEF}|AcadeApp\\AcadeApp.csproj|solutionrelative:acadeapp\\pages\\cadastro.razor||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agendar.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Agendar.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\Pages\\Agendar.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Agendar.razor",
+              "RelativeToolTip": "AcadeApp\\Pages\\Agendar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:24:27.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "AcadeApp\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:23:06.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\_Imports.razor",
+              "RelativeToolTip": "AcadeApp\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T17:06:36.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\App.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\App.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\App.razor",
+              "RelativeToolTip": "AcadeApp\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:22:43.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Program.cs",
+              "RelativeDocumentMoniker": "AcadeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Program.cs",
+              "RelativeToolTip": "AcadeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:22:01.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Index.razor",
+              "RelativeToolTip": "AcadeApp\\Pages\\Index.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:23:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AcadeApp\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:23:26.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Login.razor",
+              "RelativeToolTip": "AcadeApp\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:24:43.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "AcadeApp\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "AcadeApp\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-08T17:16:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cadastro.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Cadastro.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\Pages\\Cadastro.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Cadastro.razor",
+              "RelativeToolTip": "AcadeApp\\Pages\\Cadastro.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T17:23:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "AcadeApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\wwwroot\\index.html",
+              "RelativeToolTip": "AcadeApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-01T19:28:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cadastro.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Cadastro.razor",
+              "RelativeDocumentMoniker": "AcadeApp\\Pages\\Cadastro.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\AcadeApp\\AcadeApp\\Pages\\Cadastro.razor",
+              "RelativeToolTip": "AcadeApp\\Pages\\Cadastro.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T17:22:58.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
