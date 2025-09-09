@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcadeAppWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef995099a82b30c566268307fc3765a3f422996")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+050201dfd4396a8163ebbd4f40a6786b442f58e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcadeAppWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcadeAppWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

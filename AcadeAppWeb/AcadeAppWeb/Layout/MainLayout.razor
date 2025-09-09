@@ -1,6 +1,7 @@
 ﻿@inherits LayoutComponentBase
+@inject IJSRuntime JS
 
-<div class="@ThemeClass">
+<div>
     <NavMenu IsLight="@IsLight" OnToggleTheme="ToggleTheme" />
     <main>
         @Body
@@ -12,12 +13,26 @@
 </div>
 
 @code {
-    private bool IsLight = true;
-    public string ThemeClass => IsLight ? "" : "light";
+    private bool IsLight = false;
 
-    public void ToggleTheme()
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+            await UpdateRootClass();
+    }
+
+    private async Task UpdateRootClass()
+    {
+        if (IsLight)
+            await JS.InvokeVoidAsync("document.documentElement.classList.add", "light");
+        else
+            await JS.InvokeVoidAsync("document.documentElement.classList.remove", "light");
+    }
+
+    public async Task ToggleTheme()
     {
         IsLight = !IsLight;
+        await UpdateRootClass();
         StateHasChanged();
     }
 }
