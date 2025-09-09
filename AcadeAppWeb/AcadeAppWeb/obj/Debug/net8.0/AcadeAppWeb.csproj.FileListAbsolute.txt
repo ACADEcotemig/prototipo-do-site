@@ -2066,6 +2066,6 @@ C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0
 C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\refint\AcadeAppWeb.dll
 C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\AcadeAppWeb.pdb
 C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\ref\AcadeAppWeb.dll
-C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\compressed\0i19vxzptj-kxa6n16e65.gz
-C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\compressed\b16vakjism-q38l2ka2hk.gz
-C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\compressed\ds6z554jfn-xx8shat9z3.gz
+C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\compressed\0i19vxzptj-dljndi78rs.gz
+C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\compressed\b16vakjism-2fh8ho4rxn.gz
+C:\Users\Admin\Github\prototipo-do-site\AcadeAppWeb\AcadeAppWeb\obj\Debug\net8.0\compressed\ds6z554jfn-zfdw7c68uf.gz
