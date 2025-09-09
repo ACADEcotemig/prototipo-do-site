@@ -20,6 +20,7 @@ else
                 <th>Nome</th>
                 <th>Email</th>
                 <th>Senha</th>
+                <th>Localização</th>
                 <th>Ações</th>
             </tr>
         </thead>
@@ -41,6 +42,7 @@ else
                             }
                         </span>
                     </td>
+                    <td><a href="@u.Localizacao"></a>@u.Localizacao</td>
                     <td>
                         <button class="btn btn-sm btn-warning" @onclick="() => EditUsuario(u)">Editar</button>
                         <button class="btn btn-sm btn-danger" @onclick="() => DeleteUsuario(u.Id)">Excluir</button>
