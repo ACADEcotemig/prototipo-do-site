@@ -50,42 +50,17 @@ prototipo-do-site-main
 │   │   │       ├── DocumentLayout.backup.json
 │   │   │       └── DocumentLayout.json
 ```
-## Como Executar o Projeto
 
-### 1. Pré-requisitos
-- **.NET 7.0 SDK** ou superior  
-- **Visual Studio 2022** (ou outra IDE compatível com .NET)  
-- **SQL Server (LocalDB ou Express)** para rodar as migrações do Entity Framework  
-- **Git** para clonar o repositório  
-
-### 2. Instalação
-bash
-# Clone o repositório
-git clone https://github.com/usuario/repositorio.git
-# Acesse a pasta do projeto
-cd prototipo-do-site-main
 # Como Executar o Projeto
 - Executar o AcadeAppApi (para o banco de dados)
 - Executar o AcadeAppWeb (para o site)
-- para ver todos os usuarios, visite http://localhost:5004/usuarios
-- para cadastrar usuarios, use a aba "Cadastro"
+- para ver todos os usuarios, visite http://localhost:5004/usuarios.
+- para cadastrar usuarios, use a aba "Cadastro".
+- para redefinir a senha, utilize o "esqueci minha senha", agora com um formulário dedicado.
+- para acessar as Estacoes de coleta visite http://localhost:5004/estacoes
+- para acessar os trabalhadores visiste http://localhost:5004/trabalhadores
+- para acessar os servicos visiste http://localhost:5004/servicos
 
-### 3. Execução
-# Acesse a pasta da API e execute
-cd AcadeAppApi
-dotnet run
-# Em outro terminal, acesse a pasta do frontend (Blazor) e execute
-cd AcadeAppWeb/AcadeAppWeb
-dotnet run
-
-### 4. Acesso
-```text
-#API Backend: http://localhost:5000
-#Frontend (Blazor WebApp): http://localhost:5001
-#Banco de Dados: configurado em AcadeAppApi/appsettings.json
-#Usuário padrão: (defina aqui caso exista)
-#Senha padrão: (defina aqui caso exista)
-```
 ## Funcionalidades
 
 - [X] Cadastro de usuários  
@@ -104,7 +79,7 @@ dotnet run
 - [ ] Acompanhamento da quantidade de lixo recolhido  
 - [X] Mecanismo de avaliação do serviço de coleta  
 - [ ] Consulta de horários de coleta por bairro  
-- [ ] Opção de agendamento de coletas especiais  
+- [X] Opção de agendamento de coletas especiais  
 - [X] Educação Ambiental e Dicas  
 - [ ] Solicitação de Coleta Especial Urgente  
 - [ ] Relatório de Impacto Ambiental Pessoal 
