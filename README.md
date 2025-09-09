@@ -54,9 +54,11 @@ prototipo-do-site-main
 # Como Executar o Projeto
 - Executar o AcadeAppApi (para o banco de dados)
 - Executar o AcadeAppWeb (para o site)
-- para ver todos os usuarios, visite http://localhost:5004/usuarios.
 - para cadastrar usuarios, use a aba "Cadastro".
 - para redefinir a senha, utilize o "esqueci minha senha", agora com um formulário dedicado.
+
+- **As proximas páginas não possuem links pois são páginas de debugging**
+- para ver todos os usuarios, visite http://localhost:5004/usuarios.
 - para acessar as Estacoes de coleta visite http://localhost:5004/estacoes
 - para acessar os trabalhadores visiste http://localhost:5004/trabalhadores
 - para acessar os servicos visiste http://localhost:5004/servicos
