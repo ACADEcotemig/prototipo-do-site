@@ -44,16 +44,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/Pages/HiddenPages/Estacoes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlkZGVuUGFnZXNcRXN0YWNvZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/Pages/HiddenPages/Servicos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlkZGVuUGFnZXNcU2Vydmljb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/Pages/HiddenPages/Trabalhadores.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlkZGVuUGFnZXNcVHJhYmFsaGFkb3Jlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/Pages/HiddenPages/Usuarios.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlkZGVuUGFnZXNcVXN1YXJpb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/Pages/Usuarios.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Github/prototipo-do-site/AcadeAppWeb/AcadeAppWeb/_Imports.razor]

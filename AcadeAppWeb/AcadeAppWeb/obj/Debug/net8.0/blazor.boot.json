@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AcadeAppWeb",
   "resources": {
-    "hash": "sha256-eUXRUAvO90sujyuF5qqV08cliyuXLUJuXpss12LcnTI=",
+    "hash": "sha256-u+6t6+/Sb4dMuVX7FYpaPtmKSNZ8zV2qEansstEVUs4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-RLW/7NVuhoPfq151II3kX2kWHgBwQgpCw9aemQNg3to=",
       "netstandard.wasm": "sha256-lAg5WvTiA8wbsIwlr51xh0YWpXT9F5EX3Cnv+11O/mU=",
       "System.Private.CoreLib.wasm": "sha256-3O3muuRQwoLRecYRjfIFWUURvTjP4EmD2O8wYg2UDNY=",
-      "AcadeAppWeb.wasm": "sha256-a8wdmZZze1yGEriR0RPjHhOb7lymXckauVu+eWtwRZw="
+      "AcadeAppWeb.wasm": "sha256-VxAGJhy7SFYWhLEmm8+a51Aajo+OLS792I4IMDUg5m4="
     },
     "pdb": {
-      "AcadeAppWeb.pdb": "sha256-oz+YZiM9Wf35K0Ey66WvqKJDQ5G7gjq6ndgSVtqMdSg="
+      "AcadeAppWeb.pdb": "sha256-zwt0hc2ZtdPbQuLv+aPJXT+CXiZblM+HwwKO/DRSpjQ="
     }
   },
   "cacheBootResources": true,

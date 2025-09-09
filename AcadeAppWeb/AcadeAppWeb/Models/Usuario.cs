@@ -1,10 +1,20 @@
-﻿namespace AcadeAppWeb.Models
+﻿namespace AcadeAppWeb.Models;
+
+using System.ComponentModel.DataAnnotations;
+
+public class Usuario
 {
-    public class Usuario
-    {
-        public int Id { get; set; }
-        public string? Username { get; set; } // Must match API
-        public string? Email { get; set; }
-        public string? Senha { get; set; }
-    }
+    [Key]
+    public int Id { get; set; }
+
+    public string Nome { get; set; }
+    public string Senha { get; set; }
+    public string Email { get; set; }
+    public string Telefone { get; set; }
+    public string HistoricoAtv { get; set; }
+    public string RelatorioImpacto { get; set; }
+    public string InterfacePref { get; set; }
+    public string IdiomaPref { get; set; }
+    public string Localizacao { get; set; }
+    public string PontosColeta { get; set; }
 }
