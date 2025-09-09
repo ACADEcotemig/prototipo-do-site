@@ -88,24 +88,24 @@ dotnet run
 ```
 ## Funcionalidades
 
-- [ ] Cadastro de usuários  
-- [ ] Redefinição de senha  
+- [X] Cadastro de usuários  
+- [X] Redefinição de senha  
 - [ ] Notificações de lembretes  
 - [ ] Visualização do histórico de atividades  
 - [ ] Integração com redes sociais  
-- [ ] Personalização da interface  
+- [X] Personalização da interface  
 - [ ] Dashboard com métricas de uso  
 - [ ] Sistema de suporte a múltiplos idiomas  
 - [ ] Exportação de relatórios em PDF  
 - [ ] Sistema de busca de lugares para jogar o lixo eficiente  
-- [ ] Registro da localização do usuário  
+- [X] Registro da localização do usuário  
 - [ ] Localização dos pontos de coleta na região  
 - [ ] Agenda de coleta de lixo  
 - [ ] Acompanhamento da quantidade de lixo recolhido  
-- [ ] Mecanismo de avaliação do serviço de coleta  
+- [X] Mecanismo de avaliação do serviço de coleta  
 - [ ] Consulta de horários de coleta por bairro  
 - [ ] Opção de agendamento de coletas especiais  
-- [ ] Educação Ambiental e Dicas  
+- [X] Educação Ambiental e Dicas  
 - [ ] Solicitação de Coleta Especial Urgente  
 - [ ] Relatório de Impacto Ambiental Pessoal 
 
