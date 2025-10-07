@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Github\\prototipo-do-site\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\pages\\agendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\pages\\agendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\pages\\hiddenpages\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\pages\\hiddenpages\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\models\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\models\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +15,44 @@
       "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\models\\estacaodecoleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\acadeappweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\acadeappweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\pages\\agendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\pages\\agendar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\pages\\hiddenpages\\servicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\pages\\hiddenpages\\servicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|c:\\users\\admin\\github\\prototipo-do-site\\acadeappweb\\acadeappweb\\models\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01792D31-48C5-4B8A-AE90-F908EA6752A3}|AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj|solutionrelative:acadeappweb\\acadeappweb\\models\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,50 +62,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\Index.razor",
-              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T02:58:19.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Trabalhador.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
-              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
-              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
-              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T02:57:56.742Z",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T19:38:23.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Servico.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
-              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
-              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
-              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
+              "DocumentIndex": 8,
+              "Title": "AcadeAppWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\AcadeAppWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T02:57:55.939Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T19:37:22.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\Login.razor",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Pages\\Login.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T19:30:25.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "EstacaoDeColeta.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\EstacaoDeColeta.cs",
               "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Models\\EstacaoDeColeta.cs",
@@ -93,59 +112,118 @@
               "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Models\\EstacaoDeColeta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T02:57:54.322Z",
+              "WhenOpened": "2025-09-15T19:03:54.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-09T02:54:52.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuarios.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Usuarios.razor",
-              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Usuarios.razor",
-              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Usuarios.razor",
-              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Usuarios.razor",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T02:40:53.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Usuario.cs",
               "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T02:28:53.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T18:28:46.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "Trabalhador.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Models\\Trabalhador.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:03:49.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\wwwroot\\index.html",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\wwwroot\\index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-15T18:33:15.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\App.razor",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\App.razor",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\App.razor",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T18:32:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Agendar.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\Agendar.razor",
               "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Pages\\Agendar.razor",
               "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\Agendar.razor",
               "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Pages\\Agendar.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T02:28:13.965Z",
+              "WhenOpened": "2025-09-15T18:26:54.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Servicos.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Servicos.razor",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Servicos.razor",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Servicos.razor",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Pages\\HiddenPages\\Servicos.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T18:25:35.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Models\\Servico.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:25:26.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGoBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-15T17:54:27.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AcadeAppWeb\\AcadeAppWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Github\\prototipo-do-site\\AcadeAppWeb\\AcadeAppWeb\\Program.cs",
+              "RelativeToolTip": "AcadeAppWeb\\AcadeAppWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:51:04.333Z",
               "EditorCaption": ""
             }
           ]
